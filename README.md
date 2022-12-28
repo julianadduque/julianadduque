@@ -2,7 +2,7 @@
 
 
 - 🔭 Dev/Designer
-- 🌱 Estudando Java/JavaScript/React/Phyton
+- 🌱 Estudando Java/JavaScript/React/Python
 
 <div>
   <a href="https:/github.com/julianadduque">
